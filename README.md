@@ -9,7 +9,7 @@ The official implementation for the **IEEE Transactions on Circuits and Systems 
 
 ## Highlights
 
-### ⭐: New Tracking Framework
+### ⭐ New Tracking Framework
 BIT-Tracker proposed a new tracking framework, enabling the bidirectional interaction between CNN and Transformer features to effectively capture both local and global information in a comprehensive fashion.
 Empirically, the proposed BIT-Tracker performs significantly better than the SOTA approaches and achieves leading performance on popular benchmarks.
 
@@ -17,7 +17,7 @@ Empirically, the proposed BIT-Tracker performs significantly better than the SOT
 |:-----------:|:------------:|:-----------:|:-----------------:|:------------:|:---------:|
 | BIT-Tracker | 73.1         | 68.6        | 83.0              | 70.9         | 67.8      |
 
-### ⭐: Good performance-speed trade-off
+### ⭐ Good performance-speed trade-off
 <p align="center">
   <img width="70%" src="https://github.com/maia9797/BIT-Tracker/tree/main/assets/speed_vs_performance.png" alt="speed_vs_performance"/>
 </p>
