@@ -4,7 +4,7 @@ The official implementation for the **IEEE Transactions on Circuits and Systems 
 [[Models](https://drive.google.com/drive/folders/1Z_zBa-pjzlBUdr0nmbuaH1p54zdAYg40?usp=sharing)][[Raw Results](https://drive.google.com/drive/folders/1V56yjldB6EWvQt-emmXnZa_1whWymid4?usp=sharing)]
 
 <p align="center">
-  <img width="85%" src="https://github.com/botaoye/OSTrack/blob/main/assets/arch.png" alt="Framework"/>
+  <img width="85%" src="https://github.com/maia9797/BIT-Tracker/tree/main/assets/Framework.png" alt="Framework"/>
 </p>
 
 ## Highlights
@@ -19,7 +19,7 @@ Empirically, the proposed BIT-Tracker performs significantly better than the SOT
 
 ### ⭐: Good performance-speed trade-off
 <p align="center">
-  <img width="70%" src="https://github.com/botaoye/OSTrack/blob/main/assets/speed_vs_performance.png" alt="speed_vs_performance"/>
+  <img width="70%" src="https://github.com/maia9797/BIT-Tracker/tree/main/assets/speed_vs_performance.png" alt="speed_vs_performance"/>
 </p>
 
 ## Code
