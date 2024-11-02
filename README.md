@@ -3,7 +3,7 @@ The official implementation for the **IEEE Transactions on Circuits and Systems 
 
 
 <p align="center">
-  <img width="85%" src="https://github.com/maia9797/BIT-Tracker/tree/main/assets/Framework.png" alt="Framework"/>
+  <img width="85%" src="https://github.com/maia9797/BIT-Tracker/tree/main/assets/Framework.jpg" alt="Framework"/>
 </p>
 
 ## Abstract
@@ -18,7 +18,7 @@ Empowered by the sophisticated long-range dependency modeling ability of Transfo
 
 ## Good performance-speed trade-off
 <p align="center">
-  <img width="70%" src="https://github.com/maia9797/BIT-Tracker/tree/main/assets/speed_vs_performance.png" alt="speed_vs_performance"/>
+  <img width="70%" src="https://github.com/maia9797/BIT-Tracker/tree/main/assets/speed_vs_performance.jpg" alt="speed_vs_performance"/>
 </p>
 
 ## Models
